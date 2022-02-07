@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=EASY%20ONE🎈&fontSize=70&fontColor=#FFF)
-
 
 ## 🎈 T E C H 🎈
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/meowoof011/02_MatrixCalculator)
@@ -28,3 +29,5 @@ Here are some ideas to get you started:
 <br>
 [![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white)](https://github.com/meowoof011/03_ProductInfo) 
 [![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white)](https://github.com/meowoof011/03_ProductInfo)
+
+</div>
